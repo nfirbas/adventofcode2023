@@ -84,4 +84,3 @@ if __name__ == "__main__":
 
     first_star(engine_schematic)
     second_star(engine_schematic)
-#72246648
